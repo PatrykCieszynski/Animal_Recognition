@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Animal Recognition</string>
+    <string name="zrob_zdjecie">Zrób zdjęcie</string>
+    <string name="zaladuj_zdjecie">Załaduj zdjęcie</string>
+    <string name="your_image_here">Your image here</string>
+</resources>
